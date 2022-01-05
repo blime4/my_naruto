@@ -1,0 +1,6 @@
+/root/learn/my_naruto/build/CMakeFiles/install/strip.dir
+/root/learn/my_naruto/build/CMakeFiles/install/local.dir
+/root/learn/my_naruto/build/CMakeFiles/install.dir
+/root/learn/my_naruto/build/CMakeFiles/list_install_components.dir
+/root/learn/my_naruto/build/CMakeFiles/rebuild_cache.dir
+/root/learn/my_naruto/build/CMakeFiles/edit_cache.dir
